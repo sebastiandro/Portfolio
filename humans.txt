@@ -3,11 +3,11 @@
 
 # TEAM
 
-    <name> -- <role> -- <twitter>
+    Sebastian Nilsson - Developer - @sebastiandro
 
 # THANKS
 
-    <name>
+    Joel & Jossan
 
 # TECHNOLOGY COLOPHON
 
